@@ -1,3 +1,2 @@
 #!/bin/bash
 git config --global user.name "betty"
-chmod +x change-git-user.sh
